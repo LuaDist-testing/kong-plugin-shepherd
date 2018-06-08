@@ -17,7 +17,7 @@ do
           script({
             src = cdnJS
           })
-          title("Shepherd Dashboard")
+          title("🐑 Shepherd Dashboard")
           link({
             rel = "stylesheet",
             href = cdnCSS
@@ -54,7 +54,7 @@ do
               }, function()
                 h1({
                   class = "header center light-blue-text text-lighten-1"
-                }, "Shepherd")
+                }, "🐑 Shepherd")
                 div({
                   class = "row center"
                 }, function()
